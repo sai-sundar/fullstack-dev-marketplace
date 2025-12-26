@@ -22,10 +22,10 @@
     "express"
   ],
   "skills": [
-    "dev-teacher",
-    "technical-architect",
-    "backend-developer",
-    "frontend-developer",
-    "qa-engineer"
+  "./skills/dev-teacher",
+  "./skills/technical-architect",
+  "./skills/backend-developer",
+  "./skills/frontend-developer",
+  "./skills/qa-engineer"
   ]
 }
