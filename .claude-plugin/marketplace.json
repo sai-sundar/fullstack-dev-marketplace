@@ -1,0 +1,15 @@
+{
+  "name": "fullstack-dev-marketplace",
+  "description": "Full-stack development skills for Claude Code",
+  "owner": {
+    "name": "sai-sundar",
+    "url": "https://github.com/sai-sundar"
+  },
+  "plugins": [
+    {
+      "name": "fullstack-dev-skills",
+      "source": "./fullstack-dev-skills",
+      "description": "Complete full-stack development skills: dev-teacher, technical-architect, backend-developer, frontend-developer, and qa-engineer"
+    }
+  ]
+}

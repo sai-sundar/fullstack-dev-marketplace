@@ -1,0 +1,31 @@
+{
+  "name": "fullstack-dev-skills",
+  "description": "Complete full-stack development skills pack with 5 skills: dev-teacher (learning/onboarding), technical-architect (system design/contracts), backend-developer (Node.js/Express/Supabase), frontend-developer (React/Vite/animations), and qa-engineer (testing/validation).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/YOUR_USERNAME"
+  },
+  "repository": "https://github.com/YOUR_USERNAME/fullstack-dev-skills",
+  "license": "MIT",
+  "keywords": [
+    "fullstack",
+    "development",
+    "architecture",
+    "testing",
+    "onboarding",
+    "qa",
+    "typescript",
+    "react",
+    "nodejs",
+    "supabase",
+    "express"
+  ],
+  "skills": [
+    "dev-teacher",
+    "technical-architect",
+    "backend-developer",
+    "frontend-developer",
+    "qa-engineer"
+  ]
+}
